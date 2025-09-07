@@ -6,7 +6,7 @@ def embed(text):
         )
         return np.array(response.data[0].embedding, dtype=np.float32)
     except Exception as e:
-        print("OpenAI embedding error:", e)
+        print(f"OpenAI embedding error for input: {text[:100]}... Error: {e}")
         return np.zeros(1536, dtype=np.float32)
 
 def cosine_similarity(vec1, vec2):
