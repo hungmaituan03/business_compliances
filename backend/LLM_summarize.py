@@ -63,14 +63,18 @@ Page URL: {url}
 Page content:
 {page_text}
 Provide the summary in valid JSON format only."""
-    response = client.chat.completions.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=1024,
-        temperature=0.2
-    )
-    summary = response.choices[0].message.content
-    return summary
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=1024,
+            temperature=0.2
+        )
+        summary = response.choices[0].message.content
+        return summary
+    except Exception as e:
+        print(f"OpenAI LLM error for {url}: {e}")
+        return json.dumps({"error": str(e), "url": url})
 
 def summarize_links_from_file(links_file, output_file="all_summaries.json"):
     summaries = []

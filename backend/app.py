@@ -1,3 +1,18 @@
+def embed(text):
+    try:
+        response = client.embeddings.create(
+            input=text,
+            model="text-embedding-ada-002"
+        )
+        return np.array(response.data[0].embedding, dtype=np.float32)
+    except Exception as e:
+        print("OpenAI embedding error:", e)
+        return np.zeros(1536, dtype=np.float32)
+
+def cosine_similarity(vec1, vec2):
+    if np.linalg.norm(vec1) == 0 or np.linalg.norm(vec2) == 0:
+        return 0.0
+    return float(np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2)))
 from flask import Flask, request, jsonify, make_response
 from flask_cors import CORS, cross_origin
 import os
@@ -21,23 +36,50 @@ index = faiss.read_index(INDEX_PATH)
 with open(META_PATH, "rb") as f:
     metadata = pickle.load(f)
 
+
 @app.route('/get-rules', methods=['POST', 'OPTIONS'])
 @cross_origin()
 def get_rules():
-    data = request.json
-    # Build query string from form data
-    query_parts = [
-        data.get('state', ''),
-        data.get('industry', ''),
-        data.get('size', ''),
-        data.get('structure', ''),
-    ]
-    for key in ['hasEmployees', 'hiresContractors', 'employsMinors', 'sellsGoods', 'providesServices', 'operatesOnline', 'operatesPhysical']:
-        if data.get(key):
-            query_parts.append(key)
-    query_parts += data.get('complianceFocus', [])
-    query = ' '.join([str(p) for p in query_parts if p])
-    target_jurisdiction = data.get('state', '').strip()
+    try:
+        data = request.json
+        # Build query string from form data
+        query_parts = [
+            data.get('state', ''),
+            data.get('industry', ''),
+            data.get('size', ''),
+            data.get('structure', ''),
+        ]
+        for key in ['hasEmployees', 'hiresContractors', 'employsMinors', 'sellsGoods', 'providesServices', 'operatesOnline', 'operatesPhysical']:
+            if data.get(key):
+                query_parts.append(key)
+        query_parts += data.get('complianceFocus', [])
+        query = ' '.join([str(p) for p in query_parts if p])
+        target_jurisdiction = data.get('state', '').strip()
+        # ...existing code...
+        # Step 1: Filter by jurisdiction
+        filtered = [r for r in metadata if r.get('jurisdiction', '').lower() == target_jurisdiction.lower()]
+        federal = [r for r in metadata if r.get('jurisdiction', '').lower() == "federal"]
+        if filtered:
+            filtered += federal
+        else:
+            filtered = federal
+        # Step 2: Rank results
+        query_emb = embed(query)
+        scored = []
+        for r in filtered:
+            jurisdiction_score = 1 if r.get('jurisdiction', '').lower() == target_jurisdiction.lower() else 0
+            title_emb = embed(r.get('title', ''))
+            content_emb = embed(r.get('summary', '') + " " + " ".join(r.get('key_requirements', [])))
+            title_score = cosine_similarity(query_emb, title_emb)
+            content_score = cosine_similarity(query_emb, content_emb)
+            # ...existing code for scoring and fallback...
+        # ...existing code for fallback, synthesis, and response...
+        # You may need to restore additional logic here if omitted
+        # For now, return a placeholder response
+        return jsonify({"results": [], "summary": "Debugging placeholder"})
+    except Exception as e:
+        print("Error in /get-rules:", e)
+        return jsonify({"error": str(e)}), 500
 
     def embed(text):
         response = client.embeddings.create(
