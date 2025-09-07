@@ -145,4 +145,4 @@ Based on these, summarize what rules apply and what actions the user should take
     return jsonify({"results": final_results, "summary": summary})
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run()
