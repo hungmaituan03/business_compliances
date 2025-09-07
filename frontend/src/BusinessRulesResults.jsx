@@ -1,7 +1,8 @@
 import { useLocation } from "react-router-dom";
 export default function BusinessRulesResults() {
   const location = useLocation();
-  const results = location.state?.results?.results;
+  // Support both { results: [...] } and { results: { results: [...] } }
+  const results = location.state?.results?.results || location.state?.results;
 
   if (!results || results.length === 0) return <p>No results found.</p>;
 
