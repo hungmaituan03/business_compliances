@@ -1,0 +1,7 @@
+flask
+flask-cors
+openai
+faiss-cpu
+requests
+python-dotenv
+# Add any other packages you use for scraping, summarization, or data processing below
