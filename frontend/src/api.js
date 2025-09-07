@@ -1,5 +1,6 @@
 export async function fetchBusinessRules(formData) {
-  const response = await fetch("http://localhost:5000/get-rules", {
+  const API_URL = "https://business-compliances.onrender.com";
+  const response = await fetch(`${API_URL}/get-rules`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
