@@ -1,0 +1,136 @@
+State: Arkansas
+URL: https://arkansas.gov
+Error: 403 Client Error: Forbidden for url: https://portal.arkansas.gov/
+
+State: Delaware
+URL: https://delaware.gov
+Error: Expecting value: line 1 column 1 (char 0)
+
+State: Florida
+URL: https://florida.gov
+Error: HTTPSConnectionPool(host='florida.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'florida.gov'. (_ssl.c:1000)")))
+
+State: Indiana
+URL: https://indiana.gov
+Error: Expecting value: line 1 column 1 (char 0)
+
+State: Kentucky
+URL: https://kentucky.gov
+Error: 403 Client Error: Forbidden for url: https://www.kentucky.gov/
+
+State: Massachusetts
+URL: https://massachusetts.gov
+Error: HTTPSConnectionPool(host='massachusetts.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'massachusetts.gov'. (_ssl.c:1000)")))
+
+State: Michigan
+URL: https://michigan.gov
+Error: 403 Client Error: Forbidden for url: https://michigan.gov/
+
+State: Minnesota
+URL: https://minnesota.gov
+Error: HTTPSConnectionPool(host='minnesota.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'minnesota.gov'. (_ssl.c:1000)")))
+
+State: Nevada
+URL: https://nevada.gov
+Error: HTTPSConnectionPool(host='nevada.gov', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025206656180>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+State: New Hampshire
+URL: https://nh.gov
+Error: 403 Client Error: Forbidden for url: https://www.nh.gov/
+
+State: Ohio
+URL: https://ohio.gov
+Error: 404 Client Error: Not Found for url: https://ohio.gov/
+
+State: Tennessee
+URL: https://tennessee.gov
+Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+State: Vermont
+URL: https://vermont.gov
+Error: 403 Client Error: Forbidden for url: https://www.vermont.gov/
+
+State: Virgin Islands
+URL: https://vi.gov
+Error: HTTPSConnectionPool(host='vi.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025205EEF950>: Failed to resolve 'vi.gov' ([Errno 11001] getaddrinfo failed)"))
+
+State: Virginia
+URL: https://virginia.gov
+Error: HTTPSConnectionPool(host='virginia.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+
+State: West Virginia
+URL: https://westvirginia.gov
+Error: 403 Client Error: Forbidden for url: https://westvirginia.gov/
+
+State: Wyoming
+URL: https://wyoming.gov
+Error: HTTPSConnectionPool(host='wyoming.gov', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025205F6F410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+State: Arkansas
+URL: https://arkansas.gov
+Error: 403 Client Error: Forbidden for url: https://portal.arkansas.gov/
+
+State: Florida
+URL: https://florida.gov
+Error: HTTPSConnectionPool(host='florida.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'florida.gov'. (_ssl.c:1000)")))
+
+State: Indiana
+URL: https://indiana.gov
+Error: Expecting value: line 1 column 1 (char 0)
+
+State: Kentucky
+URL: https://kentucky.gov
+Error: 403 Client Error: Forbidden for url: https://www.kentucky.gov/
+
+State: Massachusetts
+URL: https://massachusetts.gov
+Error: HTTPSConnectionPool(host='massachusetts.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'massachusetts.gov'. (_ssl.c:1000)")))
+
+State: Michigan
+URL: https://michigan.gov
+Error: 403 Client Error: Forbidden for url: https://michigan.gov/
+
+State: Minnesota
+URL: https://minnesota.gov
+Error: HTTPSConnectionPool(host='minnesota.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'minnesota.gov'. (_ssl.c:1000)")))
+
+State: Nevada
+URL: https://nevada.gov
+Error: HTTPSConnectionPool(host='nevada.gov', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000013F42BE6E40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+State: New Hampshire
+URL: https://nh.gov
+Error: 403 Client Error: Forbidden for url: https://www.nh.gov/
+
+State: Ohio
+URL: https://ohio.gov
+Error: 404 Client Error: Not Found for url: https://ohio.gov/
+
+State: South Dakota
+URL: https://sd.gov
+Error: Expecting value: line 1 column 1 (char 0)
+
+State: Tennessee
+URL: https://tennessee.gov
+Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+State: Vermont
+URL: https://vermont.gov
+Error: 403 Client Error: Forbidden for url: https://www.vermont.gov/
+
+State: Virgin Islands
+URL: https://vi.gov
+Error: HTTPSConnectionPool(host='vi.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000013F43318290>: Failed to resolve 'vi.gov' ([Errno 11001] getaddrinfo failed)"))
+
+State: Virginia
+URL: https://virginia.gov
+Error: HTTPSConnectionPool(host='virginia.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+
+State: West Virginia
+URL: https://westvirginia.gov
+Error: 403 Client Error: Forbidden for url: https://westvirginia.gov/
+
+State: Wyoming
+URL: https://wyoming.gov
+Error: HTTPSConnectionPool(host='wyoming.gov', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000013F42D26BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.sqlite3
+*.db
+*.log
+error_output.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Node/React
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Models
+*.pkl
+*.h5
+*.faiss
+*.index
+*.json
+!data/*.json
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Ignore all_summaries.json except in data/
+!data/all_summaries.json

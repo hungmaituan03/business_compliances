@@ -1,0 +1,1860 @@
+[
+  {
+    "title": "Businesses | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The IRS provides tax information and tools for businesses, including details on Employer ID Number (EIN), Employment Tax, Estimated Tax, and the Foreign Account Tax Compliance Act (FATCA).",
+    "key_requirements": [
+      "Obtain an Employer ID Number (EIN)",
+      "Understand and comply with Employment Tax obligations",
+      "Calculate and pay Estimated Tax",
+      "Comply with the Foreign Account Tax Compliance Act (FATCA)"
+    ],
+    "important_deadlines": [
+      "Estimated Tax payment deadlines",
+      "Employment Tax filing deadlines"
+    ],
+    "recommended_actions": [
+      "Visit the IRS website to understand your tax obligations",
+      "Obtain an EIN if you do not already have one",
+      "Ensure you are calculating and paying your Estimated Tax correctly",
+      "Understand and comply with FATCA if it applies to your business",
+      "Consider consulting with a tax professional to ensure compliance"
+    ]
+  },
+  {
+    "title": "Business Tax Account | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/business-tax-account",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The IRS provides a Business Tax Account service that allows small business owners to make payments, view records, receive notices and more.",
+    "key_requirements": [
+      "Business owners need to sign in to the Business Tax Account to access the services."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Small business owners should sign in to their Business Tax Account to manage their tax obligations, view records, and receive important notices."
+    ]
+  },
+  {
+    "title": "Business taxes | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/business-taxes",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information about the types of federal business taxes that small businesses need to be aware of. These include income tax, estimated tax, self-employment tax, employment taxes, and excise tax.",
+    "key_requirements": [
+      "Income tax: Businesses must file an annual income tax return.",
+      "Estimated tax: Businesses that expect to owe tax of $1,000 or more when their return is filed, must make estimated tax payments.",
+      "Self-employment tax: This is a Social Security and Medicare tax primarily for individuals who work for themselves.",
+      "Employment taxes: Businesses with employees have certain employment tax responsibilities.",
+      "Excise tax: Businesses may be required to pay this if they manufacture or sell certain products, operate certain kinds of businesses, use various kinds of equipment, facilities, or products, or receive payment for certain services."
+    ],
+    "important_deadlines": [
+      "Annual income tax return deadline",
+      "Quarterly estimated tax payment deadlines"
+    ],
+    "recommended_actions": [
+      "Ensure your business is compliant with all relevant federal tax obligations.",
+      "Make note of and meet all tax filing and payment deadlines.",
+      "Consider consulting with a tax professional to ensure you are meeting all your tax obligations."
+    ]
+  },
+  {
+    "title": "Get a business tax transcript | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/get-a-business-tax-transcript",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides information on how to obtain a business tax transcript online through your business tax account or by mail using Form 4506-T. It also details what a transcript shows, when you can request a business transcript, the types of business transcripts, and what to do if your transcript is incorrect.",
+    "key_requirements": [
+      "Business tax transcripts can be requested online or by mail",
+      "Form 4506-T is required for mail requests"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Check your business tax account for online access to your tax transcript",
+      "If online access is not available, prepare to mail Form 4506-T to request a transcript",
+      "Review the transcript for accuracy once received"
+    ]
+  },
+  {
+    "title": "Small Businesses Self-Employed | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The Internal Revenue Service (IRS) provides a variety of resources for small businesses and self-employed individuals. These include tax forms such as Form Schedule C and Form 941, publications, eLearning resources, and more. This information is particularly relevant for small businesses with assets under $10 million.",
+    "key_requirements": [
+      "Small businesses must file appropriate tax forms, including Form Schedule C for profit or loss from business and Form 941 for employer's quarterly federal tax return.",
+      "Small businesses should stay updated with IRS publications and eLearning resources to ensure tax compliance."
+    ],
+    "important_deadlines": [
+      "Form 941 is typically due by the last day of the month following the end of the quarter.",
+      "Form Schedule C is usually due by April 15 of the year following the tax year."
+    ],
+    "recommended_actions": [
+      "Visit the IRS website regularly to access necessary tax forms and stay updated with the latest information.",
+      "Consider using eLearning resources provided by the IRS to better understand tax obligations.",
+      "File necessary tax forms such as Form Schedule C and Form 941 in a timely manner to avoid penalties."
+    ]
+  },
+  {
+    "title": "A-Z index for business | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/a-z-index-for-business",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The A-Z Index for Business provided by the Internal Revenue Service (IRS) is a comprehensive resource for small business owners to find information on various business topics such as employer tax identification number (EIN), business types, and subjects. The index is organized alphabetically for easy navigation.",
+    "key_requirements": [
+      "Understanding the various business topics listed in the index",
+      "Using the index to find relevant information for your business"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Use the A-Z index to find information on specific business topics",
+      "Refer to the index regularly for updates and new information"
+    ]
+  },
+  {
+    "title": "Business structures | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/business-structures",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The IRS provides information on different business structures, emphasizing that the structure chosen determines the income tax return form to be filed. Business owners should consider legal and tax issues when selecting a business structure.",
+    "key_requirements": [
+      "Choosing the appropriate business structure",
+      "Filing the correct income tax return form based on the chosen structure"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the different business structures",
+      "Consider legal and tax implications of each structure",
+      "Choose the structure that best fits your business",
+      "Ensure to file the correct income tax return form based on your chosen structure"
+    ]
+  },
+  {
+    "title": "Business tax credits | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/business-tax-credits",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The page provides a list of forms for claiming business tax credits, and a complete explanation about when carryovers, credits and deductions cease. It is important for small business owners to understand and take advantage of these tax credits.",
+    "key_requirements": [
+      "Understanding the different forms for claiming business tax credits",
+      "Knowing when carryovers, credits and deductions cease"
+    ],
+    "important_deadlines": [
+      "Tax credits must be claimed within the tax filing deadlines"
+    ],
+    "recommended_actions": [
+      "Review the list of forms provided by the IRS for claiming business tax credits",
+      "Understand the rules and regulations regarding when carryovers, credits and deductions cease",
+      "Claim any applicable business tax credits within the tax filing deadlines"
+    ]
+  },
+  {
+    "title": "Businesses with employees | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/businesses-with-employees",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page from the Internal Revenue Service (IRS) provides information on tax-related responsibilities for businesses with employees.",
+    "key_requirements": [
+      "Businesses with employees have tax-related responsibilities",
+      "Businesses must comply with federal tax regulations"
+    ],
+    "important_deadlines": [
+      "The page does not specify any deadlines. However, businesses should be aware of tax filing deadlines."
+    ],
+    "recommended_actions": [
+      "Review the tax-related responsibilities for businesses with employees",
+      "Ensure compliance with all federal tax regulations",
+      "Stay updated with tax filing deadlines"
+    ]
+  },
+  {
+    "title": "Closing a business | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides a guide on the procedures to follow when closing a business, including the necessary forms to file and how to handle additional revenue or expenses that may be incurred.",
+    "key_requirements": [
+      "File a final return and related forms",
+      "Take care of your employees",
+      "Pay the tax you owe",
+      "Report payments to contract workers",
+      "Cancel your EIN and close your IRS business account",
+      "Keep your records"
+    ],
+    "important_deadlines": [
+      "Final tax returns must be filed by the due date of the return"
+    ],
+    "recommended_actions": [
+      "File all necessary final tax returns and related forms",
+      "Ensure all employee benefits and payments are settled",
+      "Pay any outstanding taxes",
+      "Report any payments made to contract workers",
+      "Cancel your Employer Identification Number (EIN) and close your IRS business account",
+      "Retain your business records for future reference"
+    ]
+  },
+  {
+    "title": "E-file employment tax forms | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/e-file-form-940-941-or-944-for-small-businesses",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information on how small businesses can e-file Forms 940, 941, 944 and 945, which are employment tax forms. Businesses have two options: submitting the forms themselves or having a tax professional file for them.",
+    "key_requirements": [
+      "Small businesses must file employment tax forms.",
+      "Electronic deposit is required."
+    ],
+    "important_deadlines": [
+      "The IRS does not specify deadlines on this page, but it's important to note that employment tax forms typically have set deadlines throughout the year."
+    ],
+    "recommended_actions": [
+      "Decide whether to submit employment tax forms yourself or hire a tax professional.",
+      "If filing yourself, familiarize yourself with the e-file process and requirements.",
+      "Ensure you have a system for electronic deposit."
+    ]
+  },
+  {
+    "title": "Employment taxes | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on the types of taxes small businesses need to deposit and report, including federal income tax, social security and Medicare taxes, and federal unemployment tax. It also provides guidance on understanding, depositing, and reporting employment taxes, as well as updating business addresses.",
+    "key_requirements": [
+      "Understanding the types of taxes to deposit and report",
+      "Depositing and reporting employment taxes",
+      "Correcting any errors in employment taxes",
+      "Updating business address information"
+    ],
+    "important_deadlines": [
+      "The page does not provide specific deadlines, but emphasizes the importance of timely depositing and reporting of employment taxes."
+    ],
+    "recommended_actions": [
+      "Ensure understanding of the types of taxes your business needs to deposit and report",
+      "Regularly deposit and report employment taxes",
+      "Correct any errors in employment taxes as soon as they are identified",
+      "Keep business address information up-to-date"
+    ]
+  },
+  {
+    "title": "Estimated taxes | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on who must pay estimated taxes, how much to pay, and when to pay them. It also details the penalties for underpayment of estimated tax.",
+    "key_requirements": [
+      "Understanding who must pay estimated tax",
+      "Knowing how to calculate estimated tax",
+      "Being aware of when to pay estimated taxes",
+      "Understanding the penalties for underpayment of estimated tax"
+    ],
+    "important_deadlines": [
+      "Estimated taxes are typically due in four equal installments throughout the year: April 15, June 15, September 15, and January 15 of the following year."
+    ],
+    "recommended_actions": [
+      "Determine if your business is required to pay estimated taxes.",
+      "Learn how to calculate your estimated tax payments.",
+      "Ensure you pay your estimated taxes on time to avoid penalties.",
+      "Consider seeking advice from a tax professional if you are unsure about any aspect of estimated taxes."
+    ]
+  },
+  {
+    "title": "Filing and paying your business taxes | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-and-paying-your-business-taxes",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information about how to file and pay your business taxes. It includes links to electronic payment and filing options, information on obtaining an Employer Identification Number, and details on various types of business taxes.",
+    "key_requirements": [
+      "Businesses must file and pay their taxes electronically.",
+      "Businesses must obtain an Employer Identification Number.",
+      "Businesses must understand and comply with their obligations for various types of taxes, including estimated taxes, employment taxes, and self-employment taxes."
+    ],
+    "important_deadlines": [
+      "The IRS has specific deadlines for filing and paying taxes, which vary depending on the type of tax."
+    ],
+    "recommended_actions": [
+      "Review the electronic payment and filing options available on the IRS website.",
+      "Obtain an Employer Identification Number if you do not already have one.",
+      "Understand your tax obligations for estimated taxes, employment taxes, and self-employment taxes.",
+      "Ensure you meet all IRS deadlines for filing and paying taxes."
+    ]
+  },
+  {
+    "title": "Filing past due tax returns | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-past-due-tax-returns",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on how to file past due tax returns. It emphasizes the importance of filing past due returns to avoid interest and penalties, claim a refund, protect social security benefits, and avoid issues obtaining loans. It also outlines the consequences of not filing voluntarily, including substitute returns and collection and enforcement actions.",
+    "key_requirements": [
+      "File past due tax returns as soon as possible to avoid penalties and interest.",
+      "If you owe more than you can pay, consider payment options such as installment agreements and offers in compromise.",
+      "If you don't file voluntarily, the IRS may file a substitute return, which may not give you credit for deductions and exemptions you may be entitled to."
+    ],
+    "important_deadlines": [
+      "There are no specific deadlines mentioned for filing past due returns, but it should be done as soon as possible to minimize penalties and interest."
+    ],
+    "recommended_actions": [
+      "File any past due tax returns as soon as possible.",
+      "If you owe more than you can pay, explore payment options with the IRS.",
+      "Seek help if you're having trouble filing your past due return."
+    ]
+  },
+  {
+    "title": "Get an employer identification number | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information on how small businesses can obtain an Employer Identification Number (EIN) directly from the IRS. An EIN is necessary for tax filing and reporting purposes.",
+    "key_requirements": [
+      "Businesses must apply for an EIN if they meet certain criteria such as having employees, operating as a corporation or partnership, or filing tax returns for employment, excise, or Alcohol, Tobacco, and Firearms.",
+      "Businesses can apply for an EIN online, by fax, mail, or, for international applicants, by phone."
+    ],
+    "important_deadlines": [
+      "There are no specific deadlines mentioned for obtaining an EIN, but it is recommended to get one as soon as the business meets the criteria."
+    ],
+    "recommended_actions": [
+      "Check if your business meets the criteria for needing an EIN.",
+      "Apply for an EIN using the preferred method (online, fax, mail, or phone for international applicants).",
+      "Keep the EIN in a safe place for future reference and use in tax filing and reporting."
+    ]
+  },
+  {
+    "title": "Independent contractor (self-employed) or employee?",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides guidance on how to determine whether a person providing a service to your business is an employee or an independent contractor. Misclassification can lead to penalties and additional tax obligations.",
+    "key_requirements": [
+      "Determining the correct classification of workers using common law rules",
+      "Understanding the tax obligations associated with each classification",
+      "Knowing the consequences of misclassifying an employee as an independent contractor"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the common law rules to correctly classify your workers",
+      "Consider filing Form SS-8 if you're unsure about a worker's status",
+      "Ensure you're meeting all tax obligations for your employees",
+      "If you've misclassified workers, consider participating in the Voluntary Classification Settlement Program"
+    ]
+  },
+  {
+    "title": "Industries, professions and business tax centers | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/industries-professions-and-business-tax-centers",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides a list of tax centers developed by the Internal Revenue Service (IRS) to help small businesses and self-employed individuals quickly find tax-related information specific to their industry or profession. It includes tax centers for various industries such as agriculture, automotive, cannabis, child and adult care, gig economy, indoor tanning services, real estate, restaurants, and trucking.",
+    "key_requirements": [
+      "Understanding tax obligations specific to the industry or profession",
+      "Compliance with federal tax laws and regulations"
+    ],
+    "important_deadlines": [
+      "Varies by specific tax obligations and industry"
+    ],
+    "recommended_actions": [
+      "Visit the relevant tax center for your industry or profession to understand your tax obligations",
+      "Ensure compliance with all federal tax laws and regulations",
+      "Seek professional advice if necessary"
+    ]
+  },
+  {
+    "title": "Industries, professions and business tax centers | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/industries-professions-and-business-tax-centers#industries",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The IRS provides tax centers to help small business owners quickly find information related to their specific industry or profession. These tax centers include resources for self-employed individuals, tax professionals, and specific industries such as agriculture, automotive, cannabis, child and adult care, gig economy, indoor tanning services, money services, payroll professionals, real estate, restaurants, and trucking.",
+    "key_requirements": [
+      "Understanding the specific tax obligations and resources available for your industry or profession.",
+      "Utilizing the appropriate tax center to find relevant information and resources."
+    ],
+    "important_deadlines": [
+      "No specific deadlines mentioned on this page, but individual tax centers may have relevant deadlines."
+    ],
+    "recommended_actions": [
+      "Identify the tax center that is most relevant to your industry or profession.",
+      "Use the resources provided in the relevant tax center to understand your tax obligations and find helpful information.",
+      "Check regularly for any updates or changes in tax regulations for your industry."
+    ]
+  },
+  {
+    "title": "Information return reporting",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/information-return-reporting",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information about the IRS's requirements for small businesses to report certain types of income through information returns. These include Form 1099-NEC for nonemployee compensation and Form 1099-MISC for miscellaneous income.",
+    "key_requirements": [
+      "Small businesses must report nonemployee compensation using Form 1099-NEC",
+      "Small businesses must report miscellaneous income using Form 1099-MISC"
+    ],
+    "important_deadlines": [
+      "Typically, Form 1099-NEC must be filed by January 31st of the year following the year of payment",
+      "Form 1099-MISC has various deadlines depending on the type of income being reported"
+    ],
+    "recommended_actions": [
+      "Review the types of income your business pays out to determine which forms you need to file",
+      "Ensure you file the appropriate forms by the required deadlines",
+      "Consider consulting with a tax professional to ensure you are in compliance with all IRS reporting requirements"
+    ]
+  },
+  {
+    "title": "Operating a business | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/operating-a-business",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information on various aspects of operating a business, including obtaining an Employer Identification Number (EIN), understanding tax deductions and credits, recordkeeping, paying independent contractors, and using the IRS tax calendar.",
+    "key_requirements": [
+      "Obtaining an Employer Identification Number (EIN)",
+      "Understanding and applying for business tax credits",
+      "Keeping accurate business records",
+      "Complying with tax obligations for independent contractors",
+      "Understanding what constitutes taxable and non-taxable income",
+      "Filing and paying business taxes",
+      "Filing a Beneficial Ownership Information Report (BOIR)",
+      "E-filing form 940, 941, or 944 for small businesses",
+      "Paying estimated taxes"
+    ],
+    "important_deadlines": [
+      "Deadlines for filing and paying business taxes",
+      "Deadlines for e-filing form 940, 941, or 944 for small businesses",
+      "Deadlines for paying estimated taxes"
+    ],
+    "recommended_actions": [
+      "Apply for an Employer Identification Number (EIN) if you don't already have one",
+      "Learn about and apply for business tax credits",
+      "Maintain accurate and up-to-date business records",
+      "Ensure compliance with tax obligations for any independent contractors",
+      "Understand what income is taxable and non-taxable",
+      "File and pay your business taxes on time",
+      "File a Beneficial Ownership Information Report (BOIR) if required",
+      "E-file form 940, 941, or 944 for small businesses as required",
+      "Pay estimated taxes on time"
+    ]
+  },
+  {
+    "title": "Recordkeeping | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page provides information on the importance of recordkeeping for small businesses. It explains how proper recordkeeping can help monitor business progress, prepare financial statements, and tax returns.",
+    "key_requirements": [
+      "Maintain accurate records of all business transactions.",
+      "Keep employment tax records for a specified duration.",
+      "Prepare and maintain financial statements."
+    ],
+    "important_deadlines": [
+      "There are no specific deadlines mentioned, but records should be kept and updated regularly to ensure accurate financial reporting and tax filing."
+    ],
+    "recommended_actions": [
+      "Implement a system for recording all business transactions.",
+      "Regularly update and review business records.",
+      "Consult with a tax professional to ensure compliance with all recordkeeping requirements."
+    ]
+  },
+  {
+    "title": "Report of Foreign Bank and Financial Accounts (FBAR) | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "Small business owners may be required to report yearly to the IRS foreign bank and financial accounts (FBAR) exceeding certain thresholds.",
+    "key_requirements": [
+      "Yearly reporting of foreign bank and financial accounts if they exceed certain thresholds."
+    ],
+    "important_deadlines": [
+      "Yearly reporting requirement."
+    ],
+    "recommended_actions": [
+      "Check if your foreign bank and financial accounts exceed the reporting thresholds.",
+      "File a report with the IRS if required.",
+      "Keep accurate records of your foreign bank and financial accounts."
+    ]
+  },
+  {
+    "title": "Self-employed individuals tax center | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on self-employment, including when and how to file your federal tax return and make estimated payments. It also provides information on who is considered self-employed, tax obligations, and how to make quarterly payments.",
+    "key_requirements": [
+      "Self-employed individuals are required to file an annual income tax return.",
+      "Self-employed individuals are required to pay estimated taxes quarterly."
+    ],
+    "important_deadlines": [
+      "Annual income tax return deadline is typically April 15th of the following year.",
+      "Estimated taxes are paid quarterly, typically due April 15th, June 15th, September 15th, and January 15th of the following year."
+    ],
+    "recommended_actions": [
+      "Ensure you understand the definition of self-employment according to the IRS.",
+      "File your annual income tax return by the deadline.",
+      "Make estimated tax payments quarterly.",
+      "Consider seeking assistance from a tax professional if needed."
+    ]
+  },
+  {
+    "title": "Self-employment tax (Social Security and Medicare taxes) | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on self-employment tax rates, deductions, who pays and how to pay. Self-employment tax is a tax consisting of Social Security and Medicare taxes primarily for individuals who work for themselves.",
+    "key_requirements": [
+      "Understanding what self-employment tax is",
+      "Knowing who must pay self-employment tax",
+      "Understanding how to pay self-employment tax"
+    ],
+    "important_deadlines": [
+      "Self-employment taxes are typically paid quarterly, so it's important to be aware of these deadlines"
+    ],
+    "recommended_actions": [
+      "Ensure you understand what self-employment tax is and whether it applies to you",
+      "If applicable, ensure you are paying your self-employment tax correctly and on time",
+      "Consider seeking professional tax advice if you are unsure about any aspects of self-employment tax"
+    ]
+  },
+  {
+    "title": "Small business forms and publications | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/small-business-forms-and-publications",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Internal Revenue Service (IRS) provides a variety of forms and publications for small businesses and self-employed individuals. These resources can be downloaded directly from the website or ordered through the mail by calling 800-829-3676.",
+    "key_requirements": [
+      "Small business owners should familiarize themselves with the relevant IRS forms and publications.",
+      "Business owners should ensure they have the most recent versions of forms and publications."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the IRS website to download the necessary forms and publications.",
+      "If preferred, call 800-829-3676 to order forms and publications through the mail.",
+      "Regularly check the IRS website to ensure you have the most up-to-date forms and publications."
+    ]
+  },
+  {
+    "title": "Small business online learning | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/small-business-online-learning",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Internal Revenue Service (IRS) provides a variety of online learning tools and resources to help small business owners understand and manage their business taxes. These resources can be accessed at any time and are designed to be self-paced.",
+    "key_requirements": [
+      "Understanding and managing business taxes"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Access the IRS Link and Learn tool",
+      "Watch IRS videos",
+      "Use other IRS training and resources",
+      "Learn about business taxes at your own pace"
+    ]
+  },
+  {
+    "title": "Small business tax workshops, meetings and seminars | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/small-business-tax-workshops-meetings-and-seminars",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Internal Revenue Service (IRS) provides small business tax workshops, meetings, and seminars in various states to help small business owners fulfill their federal tax responsibilities.",
+    "key_requirements": [
+      "Small business owners should attend these workshops, meetings, and seminars to understand their federal tax responsibilities."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Small business owners should check the IRS website for upcoming workshops, meetings, and seminars in their state.",
+      "Attend these events to gain a better understanding of federal tax responsibilities."
+    ]
+  },
+  {
+    "title": "Small entity compliance guides | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/small-entity-compliance-guides",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides information about the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA) which requires agencies to publish compliance guides for each rule or group of related rules for which the agency is required to prepare a final regulatory flexibility analysis (FRFA) under the Regulatory Flexibility Act (RFA).",
+    "key_requirements": [
+      "The Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA) requires agencies to publish compliance guides for each rule or group of related rules."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Small business owners should familiarize themselves with the compliance guides published under the SBREFA and RFA to ensure they are in compliance with all relevant rules and regulations."
+    ]
+  },
+  {
+    "title": "Starting a business | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/starting-a-business",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides federal tax information for individuals starting a business, and information to assist in making basic business decisions.",
+    "key_requirements": [
+      "Understanding federal tax obligations",
+      "Making basic business decisions"
+    ],
+    "important_deadlines": [
+      "Various tax deadlines depending on the type of business and tax obligations"
+    ],
+    "recommended_actions": [
+      "Review the federal tax information provided",
+      "Consider the information in making basic business decisions",
+      "Stay updated with tax deadlines and ensure timely compliance"
+    ]
+  },
+  {
+    "title": "Tax Calendar | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/tax-calendar",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The IRS provides a tax calendar for small businesses and self-employed individuals to keep track of key filing deadlines and actions each quarter.",
+    "key_requirements": [
+      "Keeping track of key tax filing deadlines",
+      "Taking necessary actions each quarter"
+    ],
+    "important_deadlines": [
+      "The tax calendar provides important deadlines for each quarter of the year"
+    ],
+    "recommended_actions": [
+      "Regularly check the IRS tax calendar",
+      "Plan ahead for each quarter's tax obligations",
+      "Ensure timely filing to avoid penalties"
+    ]
+  },
+  {
+    "title": "Webinars for small businesses | Internal Revenue Service",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/webinars-for-small-businesses",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Internal Revenue Service (IRS) offers webinars and other video and audio presentations on topics of interest for small businesses, individuals, and tax professionals. These resources can help small business owners understand and comply with federal tax regulations.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the IRS website for upcoming webinars and presentations.",
+      "Participate in webinars that are relevant to your business to stay informed about tax regulations and requirements."
+    ]
+  },
+  {
+    "title": "Credits and deductions for businesses | Internal Revenue Service",
+    "url": "https://www.irs.gov/credits-deductions/businesses",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The page provides information about credits and deductions that businesses can claim on their tax return. It is important for small business owners to understand these credits and deductions to maximize their tax savings.",
+    "key_requirements": [
+      "Understanding the different types of credits and deductions available for businesses",
+      "Knowing how to claim these credits and deductions on the business tax return"
+    ],
+    "important_deadlines": [
+      "Tax return deadlines, which vary depending on the business structure"
+    ],
+    "recommended_actions": [
+      "Review the information provided by the IRS on credits and deductions",
+      "Consult with a tax professional to understand how these credits and deductions apply to your business",
+      "Ensure to claim all applicable credits and deductions when filing your business tax return"
+    ]
+  },
+  {
+    "title": "Centro de ayuda tributaria para trabajadores por cuenta propia y pequeños negocios | Internal Revenue Service",
+    "url": "https://www.irs.gov/es/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The IRS provides a tax help center for small businesses and self-employed individuals. It offers access to tax forms, including Schedule C, Form 941, publications, eLearning resources, and more for small businesses with assets under $10 million.",
+    "key_requirements": [
+      "Small businesses must comply with federal tax regulations",
+      "Small businesses with assets under $10 million can access specific resources and forms"
+    ],
+    "important_deadlines": [
+      "Tax filing and payment deadlines vary and should be checked regularly"
+    ],
+    "recommended_actions": [
+      "Visit the IRS website to access relevant tax forms",
+      "Use the eLearning resources to understand tax obligations",
+      "Monitor tax filing and payment deadlines to ensure compliance"
+    ]
+  },
+  {
+    "title": "Ti Antrepriz ak Travayè Endepandan | Internal Revenue Service",
+    "url": "https://www.irs.gov/ht/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides resources for taxpayers who file Form 1040 or 1040-SR, Schedules C, E, F or Form 2106, along with small businesses that have less than $10 million in assets.",
+    "key_requirements": [
+      "Small businesses with less than $10 million in assets should be aware of their tax obligations.",
+      "Taxpayers should file Form 1040 or 1040-SR, Schedules C, E, F or Form 2106 as applicable."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Small businesses should ensure they are aware of their tax obligations and file the appropriate forms.",
+      "Business owners should regularly check the IRS website for updates and resources."
+    ]
+  },
+  {
+    "title": "소규모 사업체 및 자영업 세무 센터 | Internal Revenue Service",
+    "url": "https://www.irs.gov/ko/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "This is the Korean version of the Internal Revenue Service (IRS) website, providing tax information and resources for small businesses and self-employed individuals. It includes tax forms, publications, and online learning materials.",
+    "key_requirements": [
+      "Small businesses and self-employed individuals must comply with all relevant federal tax laws and regulations."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on tax laws and regulations.",
+      "Use the provided tax forms and online learning materials to ensure compliance with tax obligations."
+    ]
+  },
+  {
+    "title": "Retirement plans for small entities and self-employed | Internal Revenue Service",
+    "url": "https://www.irs.gov/retirement-plans/retirement-plans-for-small-entities-and-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "This page provides guidance on how to choose, maintain, and correct errors in a retirement plan for small businesses and self-employed individuals. It includes information on plan benefits, selecting a plan, operating your plan, filing and reporting requirements, avoiding and correcting plan errors.",
+    "key_requirements": [
+      "Choosing a suitable retirement plan for your business",
+      "Understanding how to operate your chosen plan",
+      "Knowing the filing and reporting requirements for your plan",
+      "Learning how to avoid and correct plan errors"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the information provided to understand the different types of retirement plans available",
+      "Select a retirement plan that suits your business needs",
+      "Learn about the operation and management of your chosen plan",
+      "Understand the filing and reporting requirements for your plan",
+      "Learn how to avoid and correct plan errors"
+    ]
+  },
+  {
+    "title": "Налоговый центр для малых предприятий и самостоятельно занятых лиц | Internal Revenue Service",
+    "url": "https://www.irs.gov/ru/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This is the official IRS page providing tax information useful to small businesses with assets of $10 million or less. It includes information on tax returns, tax credits and deductions, and tax forms and instructions.",
+    "key_requirements": [
+      "Small businesses must file tax returns",
+      "Small businesses may be eligible for tax credits and deductions",
+      "Small businesses must use the correct tax forms and follow the provided instructions"
+    ],
+    "important_deadlines": [
+      "Tax return filing deadlines vary depending on the type of business and the tax year"
+    ],
+    "recommended_actions": [
+      "Visit the page regularly to stay updated with the latest tax information",
+      "Ensure tax returns are filed on time",
+      "Check eligibility for tax credits and deductions",
+      "Use the correct tax forms and follow the instructions provided"
+    ]
+  },
+  {
+    "title": "Trung tâm thuế cho doanh nghiệp nhỏ và người tự kinh doanh | Internal Revenue Service",
+    "url": "https://www.irs.gov/vi/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The page is a tax center for small businesses and self-employed individuals. It provides access to tax forms, including Schedule C, Form 941, publications, online learning resources, etc., for small businesses with assets under $10 million.",
+    "key_requirements": [
+      "Small businesses with assets under $10 million need to comply with tax regulations.",
+      "Use of specific tax forms such as Schedule C and Form 941."
+    ],
+    "important_deadlines": [
+      "The page does not specify any deadlines."
+    ],
+    "recommended_actions": [
+      "Access and familiarize yourself with the tax forms and resources provided.",
+      "Ensure compliance with tax regulations."
+    ]
+  },
+  {
+    "title": "小型企业和自雇人士税务中心 | Internal Revenue Service",
+    "url": "https://www.irs.gov/zh-hans/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This is the IRS's resource center for small businesses and self-employed individuals who file Form 1040 Schedule C, E, F, or 2106, and for small businesses with assets under $10 million. It provides information on tax filing, payments, refunds, credits and deductions, and forms and instructions.",
+    "key_requirements": [
+      "Small businesses and self-employed individuals must file appropriate tax forms",
+      "Businesses with assets under $10 million are considered small businesses for tax purposes"
+    ],
+    "important_deadlines": [
+      "Tax filing deadlines vary depending on the tax form and business type"
+    ],
+    "recommended_actions": [
+      "Visit the site regularly to stay updated on tax filing requirements and deadlines",
+      "Ensure that your business assets are accurately reported",
+      "File the appropriate tax forms for your business type"
+    ]
+  },
+  {
+    "title": "小型企業及自僱人士稅務中心 | Internal Revenue Service",
+    "url": "https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "This is the IRS's tax center for small businesses and self-employed individuals. It provides access to tax information useful to small businesses with assets of $10 million or less.",
+    "key_requirements": [
+      "Understanding and complying with federal tax obligations",
+      "Making tax payments",
+      "Claiming refunds",
+      "Understanding and utilizing tax credits and deductions",
+      "Filling out and submitting necessary tax forms"
+    ],
+    "important_deadlines": [
+      "Tax filing deadlines vary depending on the type of business and time of year. Business owners should consult the IRS calendar for specific dates."
+    ],
+    "recommended_actions": [
+      "Visit the site regularly to stay informed about tax obligations and potential credits or deductions",
+      "Consult with a tax professional to ensure compliance with all federal tax laws",
+      "Make note of and adhere to all relevant tax filing deadlines",
+      "Ensure all tax forms are filled out accurately and submitted on time"
+    ]
+  },
+  {
+    "title": "Office of the National Ombudsman | U.S. Small Business Administration",
+    "url": "https://www.sba.gov/about-sba/oversight-advocacy/office-national-ombudsman",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Office of the National Ombudsman assists small businesses when they experience excessive or unfair federal regulatory enforcement actions, such as repetitive audits or investigations, excessive fines, penalties, threats, retaliation or other unfair enforcement action by a federal agency.",
+    "key_requirements": [
+      "Small businesses should be aware of their rights and the non-retaliation policy.",
+      "Small businesses can seek help and compliance guidance from the Office of the National Ombudsman."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Small businesses facing unfair regulatory enforcement should reach out to the Office of the National Ombudsman for assistance.",
+      "Review the non-retaliation policy and understand your rights as a small business owner.",
+      "Collaborate with the Office of the National Ombudsman to help improve their services."
+    ]
+  },
+  {
+    "title": "Employment Law Guide",
+    "url": "https://webapps.dol.gov/elaws/elg/",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The Employment Law Guide provides an overview of key federal labor laws and regulations that small business owners must comply with. These include wage and hour laws, safety and health standards, health benefits and retirement standards, other workplace standards, and work authorization for non-U.S. citizens.",
+    "key_requirements": [
+      "Compliance with minimum wage and overtime pay regulations under the Fair Labor Standards Act",
+      "Adherence to safety and health standards under the Occupational Safety and Health Act",
+      "Provision of health benefits and retirement standards under the Employee Retirement Income Security Act",
+      "Compliance with other workplace standards such as the Employee Polygraph Protection Act and the Worker Adjustment and Retraining Notification Act",
+      "Ensuring work authorization for non-U.S. citizens"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the Employment Law Guide to understand the key federal labor laws and regulations that apply to your business",
+      "Ensure your business is in compliance with all relevant laws and regulations",
+      "Consult with a legal professional if you have any questions or concerns about compliance"
+    ]
+  },
+  {
+    "title": "elaws - FLSA Overtime Calculator Advisor for Nonexempt Employees",
+    "url": "https://webapps.dol.gov/elaws/otcalculator.htm",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The U.S. Department of Labor provides an FLSA Overtime Calculator Advisor for Nonexempt Employees. This tool helps employers and employees understand Federal overtime requirements. A final rule announced on April 23, 2024, will take effect on July 1, 2024, updating and revising the regulations for exemptions from minimum wage and overtime pay requirements for certain employees.",
+    "key_requirements": [
+      "Covered, nonexempt employees must be paid at least the Federal minimum wage for all hours worked.",
+      "Nonexempt employees must receive overtime pay at one and one-half times the regular rate of pay for all hours worked after 40 hours in a workweek.",
+      "The regular rate is calculated by dividing the total pay for employment (except for statutory exclusions) in any workweek by the total number of hours actually worked."
+    ],
+    "important_deadlines": [
+      "The final rule updating and revising the regulations for exemptions from minimum wage and overtime pay requirements will take effect on July 1, 2024."
+    ],
+    "recommended_actions": [
+      "Use the FLSA Overtime Calculator Advisor to understand Federal overtime requirements.",
+      "Prepare for the implementation of the final rule on July 1, 2024, which includes increases to the standard salary level and the highly compensated employee total annual compensation threshold."
+    ]
+  },
+  {
+    "title": "elaws - FLSA Overtime Security Advisor",
+    "url": "https://webapps.dol.gov/elaws/overtime.htm",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The U.S. Department of Labor has announced a final rule, effective from July 1, 2024, which updates and revises the regulations under the Fair Labor Standards Act (FLSA) regarding the exemption from minimum wage and overtime pay requirements for certain employees. The FLSA Overtime Security Advisor provides information to help employers and employees understand these federal overtime security requirements.",
+    "key_requirements": [
+      "Understanding the exemptions from minimum wage and overtime pay requirements for executive, administrative, and professional (EAP) employees.",
+      "Being aware of the increases to the standard salary level and the highly compensated employee total annual compensation threshold.",
+      "Understanding the mechanism that provides for the timely and efficient updating of these earnings thresholds to reflect current earnings data."
+    ],
+    "important_deadlines": [
+      "The final rule takes effect on July 1, 2024."
+    ],
+    "recommended_actions": [
+      "Review the final rule and understand its implications for your business.",
+      "Identify any employees who fall under the EAP exemptions.",
+      "Adjust payroll systems to accommodate the increases to the standard salary level and highly compensated employee total annual compensation threshold.",
+      "Monitor updates to the earnings thresholds."
+    ]
+  },
+  {
+    "title": "elaws - Fair Labor Standards Act (FLSA) Child Labor Rules Advisor",
+    "url": "https://webapps.dol.gov/elaws/whd/flsa/cl/default.htm",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The Fair Labor Standards Act (FLSA) Child Labor Rules Advisor provides guidance on Federal child labor rules. The Act establishes minimum wage, overtime pay, recordkeeping, and child labor rules affecting full- and part-time workers in the private sector and in the Federal, state and local governments. The rules vary depending on the age of the young worker and their occupation.",
+    "key_requirements": [
+      "All states have child labor standards. When Federal and state standards are different, the rules that provide the most protection to young workers will apply.",
+      "Once an employee is 18, there are no Federal child labor rules.",
+      "Federal child labor rules do not require work permits. However, many states issue age certificates if you are asked to provide them by your employer."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Ensure compliance with both federal and state child labor laws, especially if they differ. The rules that provide the most protection to young workers will apply.",
+      "Understand that there are no federal child labor rules for employees aged 18 and above.",
+      "Be aware that while federal rules do not require work permits, many states issue age certificates if asked by employers."
+    ]
+  },
+  {
+    "title": "elaws - FLSA Hours Worked Advisor",
+    "url": "https://webapps.dol.gov/elaws/whd/flsa/hoursworked/default.asp",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The Fair Labor Standards Act (FLSA) Hours Worked Advisor provides information on Federal requirements for all covered, nonexempt employees to be paid at least the minimum wage for all hours worked. It emphasizes the importance of accurately determining the total number of hours worked by an employee in each workweek for correct pay calculation.",
+    "key_requirements": [
+      "All covered, nonexempt employees must be paid at least the minimum wage for all hours worked.",
+      "A workweek, which can begin on any day of the week, is seven consecutive 24-hour periods or 168 consecutive hours.",
+      "An employee must be paid for all of the time considered to be hours worked.",
+      "All time that is hours worked must be counted when determining overtime hours worked."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the coverage or exemptions under the FLSA.",
+      "Ensure accurate tracking of the total number of hours actually worked by each employee in each workweek.",
+      "Ensure all employees are paid at least the minimum wage for all hours worked.",
+      "Count all time that is considered hours worked when determining overtime hours worked."
+    ]
+  },
+  {
+    "title": "Child Labor | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/child-labor",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "The U.S. Department of Labor provides information and resources on child labor laws and regulations. It includes details about dangerous jobs, state laws, common violations, and employer self-assessment tools.",
+    "key_requirements": [
+      "Compliance with federal child labor laws",
+      "Understanding of dangerous jobs for minors",
+      "Awareness of state-specific child labor laws",
+      "Knowledge of common child labor violations"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review federal child labor laws and ensure your business is in compliance",
+      "Check if any jobs in your business are classified as dangerous for minors",
+      "Consult state laws to understand any additional child labor regulations",
+      "Use the employer self-assessment tools to check your compliance",
+      "Ensure you are not committing common child labor violations"
+    ]
+  },
+  {
+    "title": "Compliance Assistance | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/compliance-assistance",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "The page provides free resources from the Wage and Hour Division of the U.S. Department of Labor to help businesses understand and comply with federal labor laws. It covers topics such as the Fair Labor Standards Act (FLSA), Family and Medical Leave Act (FMLA), Child Labor, and Government Contracts.",
+    "key_requirements": [
+      "Compliance with the Fair Labor Standards Act (FLSA)",
+      "Adherence to the Family and Medical Leave Act (FMLA)",
+      "Understanding and compliance with Child Labor laws",
+      "Compliance with Government Contracts regulations"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the resources provided on the page to understand the federal labor laws",
+      "Ensure compliance with the Fair Labor Standards Act (FLSA)",
+      "Ensure adherence to the Family and Medical Leave Act (FMLA)",
+      "Understand and comply with Child Labor laws",
+      "Ensure compliance with Government Contracts regulations",
+      "Seek help or ask questions if any part of the laws or regulations is unclear"
+    ]
+  },
+  {
+    "title": "Compliance Assistance Toolkits | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The U.S. Department of Labor provides a variety of Compliance Assistance Toolkits to help businesses understand and comply with federal labor laws. These toolkits cover a range of industries and topics, including the garment industry, agriculture, the Fair Labor Standards Act (FLSA), government contracts, the Family and Medical Leave Act (FMLA), youth employment, restaurant employment, resort and hotel employment, construction, childcare, auto repair and maintenance, and natural disaster compliance.",
+    "key_requirements": [
+      "Understanding and complying with federal labor laws relevant to your industry",
+      "Adhering to regulations regarding wages, misclassification, the Family and Medical Leave Act (FMLA), maternal health, retaliation, government contracts, immigration, child labor, agricultural employment, subminimum wage, employment of workers with disabilities, and lie detector tests"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the relevant toolkit for your industry or topic",
+      "Ensure your business is in compliance with all relevant federal labor laws",
+      "Consider seeking legal advice if you are unsure about any aspects of compliance"
+    ]
+  },
+  {
+    "title": "Application of the Fair Labor Standards Act to Direct Care Workers",
+    "url": "https://www.dol.gov/agencies/whd/direct-care",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page discusses the application of the Fair Labor Standards Act (FLSA) to direct care workers. It mentions a Notice of Proposed Rulemaking addressing the FLSA’s exemption of employees who provide companionship services and live-in domestic service employees.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": []
+  },
+  {
+    "title": "Fact Sheet #21: Recordkeeping Requirements under the Fair Labor Standards Act (FLSA)",
+    "url": "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information on the recordkeeping requirements under the Fair Labor Standards Act (FLSA). It outlines the types of records that employers must maintain, including employee personal information, hours worked, wages earned, and more.",
+    "key_requirements": [
+      "Employers must maintain accurate records of employees' personal information, including full name, social security number, address, birth date (if under 19), gender, and occupation.",
+      "Employers must keep track of hours worked each day and total hours worked each week.",
+      "Records of wages paid, including regular hourly rates, overtime earnings, and total wages paid each pay period, must be kept.",
+      "Employers must maintain records of any additions to or deductions from wages.",
+      "Employers must keep records of the dates, amounts, and nature of the items that make up the total additions and deductions."
+    ],
+    "important_deadlines": [
+      "Records must be kept for at least three years for payroll records, collective bargaining agreements, sales and purchase records.",
+      "Records on which wage computations are based should be retained for two years, such as time cards and piece work tickets, wage rate tables, work and time schedules, and records of additions to or deductions from wages."
+    ],
+    "recommended_actions": [
+      "Ensure that your business is keeping accurate and comprehensive records of all required information.",
+      "Retain these records for the required amount of time.",
+      "Consider implementing a reliable system or software to aid in recordkeeping."
+    ]
+  },
+  {
+    "title": "Fact Sheet #22: Hours Worked Under the Fair Labor Standards Act (FLSA)",
+    "url": "https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "This fact sheet provides information on the definition of 'employ' and the application of principles under the Fair Labor Standards Act (FLSA). It covers various aspects of working hours including waiting time, on-call time, rest and meal periods, sleeping time and certain other activities, lectures, meetings and training programs, and different types of travel time.",
+    "key_requirements": [
+      "Understanding the definition of 'employ' under FLSA",
+      "Comprehending the principles of waiting time, on-call time, rest and meal periods",
+      "Knowing the rules about sleeping time and certain other activities",
+      "Understanding the regulations about lectures, meetings and training programs",
+      "Being aware of the rules for different types of travel time"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the fact sheet to understand the definitions and principles under FLSA",
+      "Ensure compliance with the rules regarding waiting time, on-call time, rest and meal periods",
+      "Check that your practices align with the regulations about sleeping time and certain other activities",
+      "Make sure your policies for lectures, meetings and training programs are in line with FLSA",
+      "Review your policies on travel time to ensure they comply with FLSA"
+    ]
+  },
+  {
+    "title": "Fact Sheet #21: Recordkeeping Requirements under the Fair Labor Standards Act (FLSA)",
+    "url": "https://www.dol.gov/agencies/whd/flsa/recordkeeping-redirect",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page from the U.S. Department of Labor outlines the recordkeeping requirements under the Fair Labor Standards Act (FLSA) that employers, including small business owners, must adhere to.",
+    "key_requirements": [
+      "Maintain accurate records of employees' wages",
+      "Avoid misclassification of employees",
+      "Comply with Family and Medical Leave Act (FMLA) regulations",
+      "Ensure maternal health provisions are met",
+      "Avoid retaliation against employees",
+      "Comply with regulations regarding government contracts, immigration, child labor, agricultural employment, subminimum wage, employment of workers with disabilities, and lie detector tests"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the recordkeeping requirements under the FLSA",
+      "Ensure your business is in compliance with these requirements",
+      "Consult with a legal professional if you have any questions or concerns about compliance"
+    ]
+  },
+  {
+    "title": "Watch and Learn - FLSA Compliance Videos | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/flsa/videos",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The U.S. Department of Labor provides a video library on the Fair Labor Standards Act (FLSA) compliance. The videos cover a range of topics relevant to small businesses, including wages, misclassification, Family and Medical Leave Act (FMLA), maternal health, retaliation, and more.",
+    "key_requirements": [
+      "Understanding wage laws",
+      "Properly classifying employees",
+      "Complying with Family and Medical Leave Act (FMLA)",
+      "Providing maternal health accommodations",
+      "Avoiding retaliation against employees"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Watch the videos to understand the various aspects of FLSA compliance",
+      "Ensure your business is in compliance with the discussed topics",
+      "Seek legal advice if any of the topics are unclear or if you are unsure about your business's compliance"
+    ]
+  },
+  {
+    "title": "Minimum Wage | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/minimum-wage",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page from the U.S. Department of Labor provides information on the federal minimum wage regulations. It is crucial for small business owners to understand and comply with these regulations to avoid potential penalties.",
+    "key_requirements": [
+      "Small business owners must comply with federal minimum wage regulations.",
+      "Business owners should be aware of the current federal minimum wage rate."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the U.S. Department of Labor website for updates on minimum wage regulations.",
+      "Ensure all employees are paid at least the federal minimum wage.",
+      "Consider consulting with a labor law expert to ensure compliance with all wage regulations."
+    ]
+  },
+  {
+    "title": "State Minimum Wage Laws | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/minimum-wage/state",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides a list of U.S. states and territories for users to access specific minimum wage laws applicable in their respective jurisdictions. It is maintained by the U.S. Department of Labor.",
+    "key_requirements": [
+      "Business owners must comply with the minimum wage laws of their specific state or territory."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Business owners should click on their respective state or territory to understand the specific minimum wage laws applicable to them.",
+      "Ensure compliance with these laws to avoid potential penalties."
+    ]
+  },
+  {
+    "title": "Overtime Pay | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/overtime",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page from the U.S. Department of Labor provides information and resources about federal overtime laws and regulations. It includes guidance, fact sheets, and other resources to help employers understand their obligations under the Fair Labor Standards Act (FLSA) regarding overtime pay.",
+    "key_requirements": [
+      "Employers must pay employees overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay.",
+      "Overtime pay is not required for work on weekends, holidays, or regular days of rest, unless overtime hours are worked on such days.",
+      "The Act applies on a workweek basis, and each workweek stands alone."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the overtime guidance and fact sheets provided on the page to understand your obligations under the FLSA.",
+      "Ensure your payroll system is set up to correctly calculate and pay overtime to eligible employees.",
+      "Consult with a labor law attorney or HR professional to ensure compliance with overtime laws and regulations."
+    ]
+  },
+  {
+    "title": "Earnings thresholds for the Executive, Administrative, and Professional exemption from minimum wage and overtime protections under the FLSA",
+    "url": "https://www.dol.gov/agencies/whd/overtime/salary-levels",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "This page provides information about the earnings thresholds for the Executive, Administrative, and Professional exemption from minimum wage and overtime protections under the Fair Labor Standards Act (FLSA).",
+    "key_requirements": [
+      "Understanding the earnings thresholds for the Executive, Administrative, and Professional exemption from minimum wage and overtime protections."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the earnings thresholds for the Executive, Administrative, and Professional exemption to ensure compliance with federal labor laws.",
+      "Consult with a labor law expert or attorney if you have any questions or concerns about how these regulations apply to your business."
+    ]
+  },
+  {
+    "title": "Overtime Pay | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/overtimepay",
+    "jurisdiction": "Federal",
+    "flag": "yellow",
+    "summary": "This page from the U.S. Department of Labor provides information and resources about federal overtime pay regulations. It includes guidance, fact sheets, resources, and laws and regulations related to overtime pay.",
+    "key_requirements": [
+      "Small businesses must comply with federal overtime pay regulations",
+      "Businesses should be aware of the Fair Labor Standards Act (FLSA) which governs overtime pay"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the information and resources provided on the page to understand federal overtime pay regulations",
+      "Ensure your business is in compliance with these regulations",
+      "Consider consulting with a legal professional to ensure understanding and compliance with overtime pay laws"
+    ]
+  },
+  {
+    "title": "Fair Labor Standards Act (FLSA) Minimum Wage Poster | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/posters/flsa",
+    "jurisdiction": "Federal",
+    "flag": "red",
+    "summary": "This page provides information about the Fair Labor Standards Act (FLSA) Minimum Wage Poster that must be displayed by employers. The poster outlines the rights of employees under the FLSA, including minimum wage, overtime pay, child labor laws, and more.",
+    "key_requirements": [
+      "Employers must display the FLSA Minimum Wage Poster in a conspicuous place where employees can easily see it.",
+      "The poster must be displayed at all locations even if there are no eligible employees."
+    ],
+    "important_deadlines": [
+      "No specific deadlines are mentioned, but the regulation implies immediate and ongoing compliance."
+    ],
+    "recommended_actions": [
+      "Download the FLSA Minimum Wage Poster from the provided link.",
+      "Print and display the poster in a conspicuous place at all business locations.",
+      "Ensure that the poster is easily visible to all employees."
+    ]
+  },
+  {
+    "title": "Subminimum Wage | U.S. Department of Labor",
+    "url": "https://www.dol.gov/agencies/whd/special-employment",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "The page provides information on special employment topics, including subminimum wage, which is a wage rate below the federal or state minimum wage. The page does not provide detailed information on the topic.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the page regularly for updates on special employment topics that may affect your business."
+    ]
+  },
+  {
+    "title": "Fact Sheet #22: Hours Worked Under the Fair Labor Standards Act (FLSA)",
+    "url": "https://www.dol.gov/node/106621",
+    "jurisdiction": "Federal",
+    "flag": "green",
+    "summary": "This page provides information on the definition of 'employ' and the application of principles under the Fair Labor Standards Act (FLSA). It covers various aspects related to hours worked, including waiting time, on-call time, rest and meal periods, sleeping time and certain other activities, lectures, meetings and training programs, and different types of travel time.",
+    "key_requirements": [
+      "Understanding the definition of 'employ' under FLSA",
+      "Comprehending the principles of hours worked, including waiting time, on-call time, rest and meal periods, sleeping time and certain other activities",
+      "Knowing the rules for lectures, meetings and training programs",
+      "Understanding the guidelines for different types of travel time"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the definitions and principles outlined in the Fact Sheet",
+      "Ensure your business's practices align with the guidelines provided",
+      "Seek additional information or clarification if needed"
+    ]
+  },
+  {
+    "title": "Alabama.gov | The Official Website of the State of Alabama",
+    "url": "https://alabama.gov",
+    "jurisdiction": "Alabama",
+    "flag": "green",
+    "summary": "The official website of the State of Alabama, providing various resources and information related to the state government. It does not contain specific information directly relevant to small business owners.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the website for any updates or changes in state regulations that may affect your business."
+    ],
+    "state": "Alabama"
+  },
+  {
+    "title": "HOME | AMERICAN SAMOA",
+    "url": "https://americansamoa.gov",
+    "jurisdiction": "American Samoa",
+    "flag": "green",
+    "summary": "The official portal of the American Samoa Government. It provides information about the government, including the governor and lieutenant governor, as well as other agencies.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on regulations and requirements relevant to your business.",
+      "Reach out to the appropriate agencies for specific inquiries or concerns."
+    ],
+    "state": "American Samoa"
+  },
+  {
+    "title": "Welcome to az.gov | az.gov",
+    "url": "https://arizona.gov",
+    "jurisdiction": "Arizona",
+    "flag": "green",
+    "summary": "The official website of the State of Arizona provides resources for businesses, including information on managing your business, employment, professional licenses, and unemployment insurance. It also offers resources for residents, educators, and government officials.",
+    "key_requirements": [
+      "Understanding and managing business operations in Arizona",
+      "Compliance with employment laws and regulations",
+      "Obtaining and maintaining professional licenses",
+      "Understanding and managing unemployment insurance"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business Resources' section for information relevant to your business",
+      "Check the 'Employment' section for information on hiring, labor laws, and unemployment insurance",
+      "Visit the 'Professional Licenses' section if your business requires professional licensing",
+      "Regularly check the website for updates and new information"
+    ],
+    "state": "Arizona"
+  },
+  {
+    "title": "California State Portal | CA.gov",
+    "url": "https://ca.gov",
+    "jurisdiction": "California",
+    "flag": "green",
+    "summary": "The official website of the state of California provides information and services related to various aspects including business licenses, seller's permits, taxes, jobs and unemployment. It also provides updates on state news and resources for different regions and cities within California.",
+    "key_requirements": [
+      "Obtaining a business license",
+      "Acquiring a seller's permit",
+      "Complying with state tax regulations"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Check the website regularly for updates on state regulations and services",
+      "Ensure your business has the necessary licenses and permits",
+      "Stay informed about state tax regulations"
+    ],
+    "state": "California"
+  },
+  {
+    "title": "Home | colorado.gov",
+    "url": "https://colorado.gov",
+    "jurisdiction": "Colorado",
+    "flag": "green",
+    "summary": "The official website of the state of Colorado provides information on various topics including economy, government, business, employment, education, and services. It also includes a 'Rules Portal' for easy access to state regulations.",
+    "key_requirements": [
+      "Stay updated with the latest news and announcements",
+      "Understand the state's economy and how it may affect your business",
+      "Use the 'Rules Portal' to stay informed about state regulations that may apply to your business"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly visit the website for updates and news that may affect your business",
+      "Explore the 'Rules Portal' to understand any state regulations that may apply to your business",
+      "Use the provided contact information for any queries or concerns"
+    ],
+    "state": "Colorado"
+  },
+  {
+    "title": "CT.GOV-Connecticut's Official State Website",
+    "url": "https://ct.gov",
+    "jurisdiction": "Connecticut",
+    "flag": "green",
+    "summary": "The official website of the state of Connecticut provides various services and information relevant to small businesses. However, the specific page does not contain any detailed regulations or requirements for small businesses.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the 'Business' section for updates and information relevant to your business.",
+      "Ensure your browser supports JavaScript for proper functioning of the website."
+    ],
+    "state": "Connecticut"
+  },
+  {
+    "title": "Delaware.gov - Official Website of the State of Delaware",
+    "url": "https://delaware.gov",
+    "jurisdiction": "Delaware",
+    "flag": "green",
+    "summary": "The official website of the State of Delaware provides information about state government, programs, and services. It includes sections on working and training, driving and transportation, voting, safety and emergencies, and various departments such as Labor, Motor Vehicles, Incorporation Services, Professional Regulation, and Education.",
+    "key_requirements": [
+      "Compliance with state labor laws and regulations",
+      "Adherence to motor vehicle regulations if applicable",
+      "Compliance with professional regulation standards",
+      "Understanding of incorporation services and requirements"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Review the site for relevant state regulations and requirements",
+      "Check the Department of Labor section for labor laws and regulations",
+      "Visit the Incorporation Services section if considering incorporating your business",
+      "Review the Professional Regulation section for industry-specific regulations",
+      "Use the site's contact information for any specific inquiries or clarifications"
+    ],
+    "state": "Delaware"
+  },
+  {
+    "title": "DC",
+    "url": "https://dc.gov",
+    "jurisdiction": "Washington, DC",
+    "flag": "green",
+    "summary": "The official website of Washington, DC provides information on various services, news, and resources for residents and businesses. It includes sections on public safety, public works, sanitation and utilities, emergency preparedness, social services, health and human services, transportation and motor vehicles, parks and recreation, and government-related matters such as budget, district agencies, grants and funding, laws, regulations and courts, and official documents and records.",
+    "key_requirements": [
+      "Compliance with local laws, regulations and courts",
+      "Understanding of public safety measures",
+      "Adherence to public works, sanitation and utilities guidelines",
+      "Preparation for emergencies",
+      "Compliance with health and human services regulations",
+      "Adherence to transportation and motor vehicle rules"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the website for updates on local laws and regulations",
+      "Ensure compliance with public safety, sanitation, utilities, health and human services, and transportation rules",
+      "Stay prepared for emergencies by following the guidelines provided",
+      "Consider applying for grants and funding available for businesses",
+      "Pay any tickets and fines promptly to avoid penalties"
+    ],
+    "state": "District of Columbia"
+  },
+  {
+    "title": "Georgia.gov",
+    "url": "https://georgia.gov",
+    "jurisdiction": "Georgia",
+    "flag": "green",
+    "summary": "The official website of the State of Georgia, providing a range of services and resources for residents and businesses. It includes information about moving to Georgia, state tax refunds, and warnings about scams. It also provides access to a range of how-to guides and contact information for government offices.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the site regularly for updates on state regulations and services.",
+      "Use the site's resources to ensure compliance with state laws and regulations.",
+      "Contact the relevant government offices through the site for specific inquiries."
+    ],
+    "state": "Georgia"
+  },
+  {
+    "title": "The Official Portal for the Island of Guam",
+    "url": "https://guam.gov",
+    "jurisdiction": "Guam",
+    "flag": "green",
+    "summary": "The official website for the Island of Guam provides various resources and information for residents, visitors, and businesses. It includes government news, a directory of government services, transparency initiatives, and an emergency guide.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on government news and initiatives that may impact your business.",
+      "Use the Gov Guam Directory to find relevant government services and contacts.",
+      "Review the transparency initiatives to understand government policies and actions.",
+      "Familiarize yourself with the emergency guide to prepare for any potential crises."
+    ],
+    "state": "Guam"
+  },
+  {
+    "title": "Hawaii.gov | The Official Website of the Aloha State",
+    "url": "https://hawaii.gov",
+    "jurisdiction": "Hawaii",
+    "flag": "green",
+    "summary": "The official website of the state of Hawaii provides information and resources for businesses, residents, and visitors. It includes latest news, popular services, and updates from various departments.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the website for updates relevant to your business.",
+      "Use the resources provided for business owners.",
+      "Stay informed about any emergency proclamations or changes in regulations."
+    ],
+    "state": "Hawaii"
+  },
+  {
+    "title": "Welcome | The Official Website of the State of Idaho",
+    "url": "https://idaho.gov",
+    "jurisdiction": "Idaho",
+    "flag": "green",
+    "summary": "The official website for the state of Idaho provides a comprehensive directory of government resources, information, and online services. It includes sections for business resources, taxes and money, laws and public safety, and professional licenses among others.",
+    "key_requirements": [
+      "Understanding and complying with Idaho business taxes and reporting",
+      "Obtaining necessary professional licenses",
+      "Complying with state laws and public safety regulations",
+      "Managing and hiring employees in accordance with Idaho laws"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business Resources' section for information on starting and running a business in Idaho",
+      "Check the 'Taxes & Money' section for details on business taxes, reporting, and potential credits",
+      "Visit the 'Professional Licenses' section to ensure all necessary licenses are obtained",
+      "Review the 'Laws & Public Safety' section to ensure compliance with state regulations"
+    ],
+    "state": "Idaho"
+  },
+  {
+    "title": "Illinois.gov",
+    "url": "https://illinois.gov",
+    "jurisdiction": "Illinois",
+    "flag": "green",
+    "summary": "The official website of the state of Illinois provides various services and information relevant to residents, businesses, and visitors. It includes sections for government, business, employment, education, and emergencies and disasters.",
+    "key_requirements": [
+      "Businesses may need to check professional license status",
+      "Businesses may need to be aware of state government job postings",
+      "Businesses may need to renew driver's licenses for company vehicles"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the 'Business' section to find relevant information and services",
+      "Use the 'Professional License Look-up' feature to check the status of professional licenses",
+      "Check 'State Government Jobs' if looking to work with the state government",
+      "Renew driver's licenses for company vehicles as needed"
+    ],
+    "state": "Illinois"
+  },
+  {
+    "title": "Welcome | Iowa.gov",
+    "url": "https://iowa.gov",
+    "jurisdiction": "Iowa",
+    "flag": "green",
+    "summary": "Iowa.gov is a comprehensive resource for information on government, education, business regulations, health, and more in the state of Iowa. It provides access to various services and resources including business licenses, business tax payments, and starting a business.",
+    "key_requirements": [
+      "Obtaining necessary business licenses",
+      "Paying business taxes",
+      "Complying with state regulations when starting a business"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the site to familiarize yourself with the resources and services available",
+      "Ensure your business has all necessary licenses",
+      "Stay up-to-date with business tax payments",
+      "Use the site as a resource when starting a business"
+    ],
+    "state": "Iowa"
+  },
+  {
+    "title": "Home - Kansas.gov",
+    "url": "https://kansas.gov",
+    "jurisdiction": "Kansas",
+    "flag": "green",
+    "summary": "Kansas.gov is the official website of the state of Kansas, providing information on various services, resources, and updates relevant to residents and businesses in Kansas. The site includes sections on taxes and finance, business and industry, jobs and unemployment, and more.",
+    "key_requirements": [
+      "Businesses may need to file tax returns and check refund status",
+      "Businesses may need to run background checks",
+      "Businesses are required to file an annual report"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business and Industry' section for resources and information relevant to your business",
+      "Check the 'Taxes and Finance' section for tax-related information and requirements",
+      "Use the 'Run Background Check' service if necessary for your business operations",
+      "Ensure to file your annual report as required by the state"
+    ],
+    "state": "Kansas"
+  },
+  {
+    "title": "Louisiana.gov - The official website of Louisiana",
+    "url": "https://louisiana.gov",
+    "jurisdiction": "Louisiana",
+    "flag": "green",
+    "summary": "The official website of Louisiana provides a gateway to services provided by the executive, legislative, and judicial branches. It includes information and resources from various departments that may be relevant to small businesses, such as the Louisiana Workforce Commission, Department of Revenue, Department of Natural Resources, and Louisiana Economic Development.",
+    "key_requirements": [
+      "Stay updated with regulations and services provided by the state's executive, legislative, and judicial branches.",
+      "Ensure compliance with rules and regulations set forth by relevant departments such as the Department of Revenue, Department of Natural Resources, and Louisiana Economic Development."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly visit the website to stay informed about any changes in state regulations or services that may affect your business.",
+      "Utilize the resources provided by the website to ensure your business is in compliance with all relevant state laws and regulations."
+    ],
+    "state": "Louisiana"
+  },
+  {
+    "title": "Maine.gov",
+    "url": "https://maine.gov",
+    "jurisdiction": "Maine",
+    "flag": "green",
+    "summary": "The official Maine government site provides links to various services, including those related to business, employment, and tax information. It also offers updates from the Governor, state agencies, Legislature, and US Congressional delegation.",
+    "key_requirements": [
+      "Stay updated with the latest news and alerts from the state government.",
+      "Use the online services for business-related needs."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the site for any updates or changes in regulations.",
+      "Utilize the online services provided for business-related activities.",
+      "Sign up for free email and SMS text notifications for updates."
+    ],
+    "state": "Maine"
+  },
+  {
+    "title": "Maryland.gov - Official Website of the State of Maryland",
+    "url": "https://maryland.gov",
+    "jurisdiction": "Maryland",
+    "flag": "green",
+    "summary": "The official website of the State of Maryland provides a range of online services for businesses, including applications for benefits, management of cases, and updates of accounts. It also serves as a central hub for state licenses, forms, certificates, permits, applications, and registrations.",
+    "key_requirements": [
+      "Businesses may need to apply for certain benefits, manage cases, and update accounts.",
+      "Businesses may need to obtain state licenses, forms, certificates, permits, applications, and registrations."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the website to understand the services available.",
+      "Apply for any necessary benefits, manage your cases, and update your accounts as needed.",
+      "Check if your business requires any state licenses, forms, certificates, permits, applications, or registrations and apply for them through the website."
+    ],
+    "state": "Maryland"
+  },
+  {
+    "title": "MS.GOV - State of Mississippi Citizen Portal",
+    "url": "https://mississippi.gov",
+    "jurisdiction": "Mississippi",
+    "flag": "green",
+    "summary": "The official website of the State of Mississippi provides a variety of resources and information for citizens, including small business owners. Key sections include 'Business in Mississippi', 'Taxpayer Access Point', and 'Start a Business'.",
+    "key_requirements": [
+      "Understanding the tax obligations for businesses in Mississippi",
+      "Knowing the process and requirements to start a business in Mississippi"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business in Mississippi' section to understand the business environment and regulations",
+      "Use the 'Taxpayer Access Point' to manage tax obligations",
+      "Visit the 'Start a Business' section to learn about the process and requirements of starting a business in Mississippi"
+    ],
+    "state": "Mississippi"
+  },
+  {
+    "title": "Site Down for Maintenance",
+    "url": "https://missouri.gov",
+    "jurisdiction": "Missouri",
+    "flag": "green",
+    "summary": "The official Missouri government website is currently down for scheduled maintenance. No specific information or updates relevant to small business owners are available at this time.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Check the website at a later time for updates and information relevant to your small business."
+    ],
+    "state": "Missouri"
+  },
+  {
+    "title": "MT.gov - Official State Website",
+    "url": "https://montana.gov",
+    "jurisdiction": "Montana",
+    "flag": "green",
+    "summary": "The official website of the state of Montana provides a variety of resources and information for residents, including small business owners. It includes directories, interactive maps, contact information for city, county, and state offices, weather updates, and employment opportunities. It also provides resources for job seekers, information on interacting with the state government, voter information, consumer protection, information security, and various media resources.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the site regularly for updates on state regulations and opportunities.",
+      "Use the provided resources for any business-related inquiries.",
+      "Check the 'Employment Opportunities' section if looking to expand your workforce.",
+      "Utilize the 'Information and Resources' section for guidance on operating within the state."
+    ],
+    "state": "Montana"
+  },
+  {
+    "title": "Home | Nebraska.gov",
+    "url": "https://nebraska.gov",
+    "jurisdiction": "Nebraska",
+    "flag": "green",
+    "summary": "The Official Nebraska Government Website, Nebraska.gov, provides resources, news, statistics, and online services for citizens and businesses in the state of Nebraska. It enables secure and efficient interaction with the government.",
+    "key_requirements": [
+      "Businesses must ensure they are properly licensed",
+      "Businesses must comply with state tax regulations"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Use the website to access various online services",
+      "Check the 'Business Services', 'Business Licensing', and 'Business Taxes' sections for relevant information and requirements",
+      "Ensure your business is in compliance with all state regulations"
+    ],
+    "state": "Nebraska"
+  },
+  {
+    "title": "The Official Web Site for The State of New Jersey",
+    "url": "https://newjersey.gov",
+    "jurisdiction": "New Jersey",
+    "flag": "green",
+    "summary": "The official website of the State of New Jersey provides various resources and services for businesses, including information on employment opportunities, housing and economic development, health insurance marketplace, and more. It also offers updates on the Governor's press releases and other state-wide happenings.",
+    "key_requirements": [
+      "Stay updated with the Governor's press releases",
+      "Be aware of the state's health insurance marketplace",
+      "Keep informed about housing and economic development"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly visit the website for updates on state-wide happenings",
+      "Explore employment opportunities listed on the website",
+      "Stay informed about the state's health insurance marketplace",
+      "Follow NJ on social media for real-time updates"
+    ],
+    "state": "New Jersey"
+  },
+  {
+    "title": "New Home - Welcome to NewMexico.gov",
+    "url": "https://newmexico.gov",
+    "jurisdiction": "New Mexico",
+    "flag": "green",
+    "summary": "The official homepage of the State of New Mexico provides information on state services, government branches, and resources for business owners. It includes sections on business planning, initiation, and licensing in the state.",
+    "key_requirements": [
+      "Business owners need to follow the state's guidelines for business planning, initiation, and licensing."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the resources provided on the website, especially those related to business planning, initiation, and licensing.",
+      "Consider creating a NM.Gov profile for easier access to services and information.",
+      "Stay updated with the latest news and alerts from the state government."
+    ],
+    "state": "New Mexico"
+  },
+  {
+    "title": "The Official Website of New York State",
+    "url": "https://ny.gov",
+    "jurisdiction": "New York",
+    "flag": "green",
+    "summary": "The official website of the State of New York provides information about state government agencies, programs, and services. It also offers news updates and connections to various government departments.",
+    "key_requirements": [
+      "Stay informed about state government programs and services",
+      "Connect with relevant government agencies for business needs"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Regularly check the website for updates on state programs and services",
+      "Use the site to connect with relevant government agencies for your business needs"
+    ],
+    "state": "New York"
+  },
+  {
+    "title": "Home | nc.gov",
+    "url": "https://northcarolina.gov",
+    "jurisdiction": "North Carolina",
+    "flag": "green",
+    "summary": "The official website of North Carolina provides information about government services, updates, and guides to exploring and enjoying the state. It also warns about fraudulent text scams requesting payment for NCDMV fees, fines, or tolls.",
+    "key_requirements": [
+      "Be aware of fraudulent text scams requesting payment for NCDMV fees, fines, or tolls. NCDMV will never request payment by text."
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Report any suspicious text messages requesting payment for NCDMV fees, fines, or tolls as spam and delete them.",
+      "Use the website to access information about government services and updates."
+    ],
+    "state": "North Carolina"
+  },
+  {
+    "title": "Home | North Dakota State Government - ND Portal",
+    "url": "https://northdakota.gov",
+    "jurisdiction": "North Dakota",
+    "flag": "green",
+    "summary": "The official website of the North Dakota State Government provides information about living in North Dakota, including community development, cost of living, health, wellness and families, learning for a lifetime, outdoor recreation, safety, sports and leisure activities, weather, and ND roads.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on state regulations and resources that may impact your business.",
+      "Ensure you're on the official .gov site before sharing sensitive information."
+    ],
+    "state": "North Dakota"
+  },
+  {
+    "title": "Oklahoma's Official Web Site",
+    "url": "https://oklahoma.gov",
+    "jurisdiction": "Oklahoma",
+    "flag": "green",
+    "summary": "The official website of Oklahoma provides various resources and services for individuals and businesses. It includes tax filing information, licensing details, and other resources for businesses. The site also promotes tax compliance through transparency and fairness in administration of the tax code.",
+    "key_requirements": [
+      "Compliance with Oklahoma tax code",
+      "Obtaining necessary licenses such as hunting, fishing, or business licenses",
+      "Renewal of car tags if applicable"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the Oklahoma Tax Commission section for latest tax information",
+      "Ensure compliance with all relevant Oklahoma tax laws",
+      "Obtain necessary licenses for business operation",
+      "Renew car tags as needed"
+    ],
+    "state": "Oklahoma"
+  },
+  {
+    "title": "Oregon.gov : State of Oregon",
+    "url": "https://oregon.gov",
+    "jurisdiction": "Oregon",
+    "flag": "green",
+    "summary": "The official homepage of the State of Oregon provides a variety of services and information relevant to small businesses, including a state agency directory, online services, and a newcomers guide.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the site regularly for updates on state regulations and services",
+      "Use the state agency directory for specific regulatory information",
+      "Utilize online services for business needs",
+      "Refer to the newcomers guide for general information about operating in Oregon"
+    ],
+    "state": "Oregon"
+  },
+  {
+    "title": "Home | Commonwealth of Pennsylvania",
+    "url": "https://pa.gov",
+    "jurisdiction": "Pennsylvania",
+    "flag": "green",
+    "summary": "The official website of the Commonwealth of Pennsylvania provides various services and resources for businesses and individuals. It includes information on how to apply for REAL ID, renew vehicle registration, apply for the Supplemental Nutrition Assistance Program, and find grant funding.",
+    "key_requirements": [
+      "Ensure compliance with Pennsylvania state regulations",
+      "Apply for REAL ID if necessary",
+      "Renew vehicle registration as required",
+      "Consider applying for the Supplemental Nutrition Assistance Program if eligible",
+      "Explore grant funding opportunities"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on state regulations and services",
+      "Apply for necessary services such as REAL ID and vehicle registration renewal",
+      "Explore grant funding opportunities"
+    ],
+    "state": "Pennsylvania"
+  },
+  {
+    "title": "PR.gov | Gobierno de Puerto Rico",
+    "url": "https://pr.gov",
+    "jurisdiction": "Puerto Rico",
+    "flag": "green",
+    "summary": "The official website of the Government of Puerto Rico provides centralized information about government services and activities. It serves as a hub for all government agencies and departments, allowing users to access information and resources efficiently and conveniently.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the website regularly for updates on government policies, programs, and application processes relevant to your business.",
+      "Use the website as a resource for government-related inquiries and information."
+    ],
+    "state": "Puerto Rico"
+  },
+  {
+    "title": "RI.gov: Rhode Island Government",
+    "url": "https://ri.gov",
+    "jurisdiction": "Rhode Island",
+    "flag": "green",
+    "summary": "The official website of the State of Rhode Island provides a range of online services relevant to small businesses, including business tax information, guidance on starting a business in Rhode Island, and various licensing and registration services.",
+    "key_requirements": [
+      "Understanding and complying with business tax obligations",
+      "Properly registering and renewing vehicle registrations if applicable",
+      "Obtaining necessary licenses such as commercial fishing licenses or saltwater fishing licenses if applicable"
+    ],
+    "important_deadlines": [
+      "Deadlines for business tax payments and filings",
+      "Deadlines for vehicle registration renewals",
+      "Deadlines for license applications and renewals"
+    ],
+    "recommended_actions": [
+      "Visit the 'Business Taxes' section under the 'Division of Taxation' for information on tax obligations",
+      "Check the 'Start a Business in RI' section under the 'Secretary of State' for guidance on starting a business",
+      "Use the 'Vehicle Registration Renewal' service under 'DMV' to renew vehicle registrations",
+      "Apply for necessary licenses under the 'DEM' section"
+    ],
+    "state": "Rhode Island"
+  },
+  {
+    "title": "Home | South Carolina",
+    "url": "https://sc.gov",
+    "jurisdiction": "South Carolina",
+    "flag": "green",
+    "summary": "The official website of South Carolina provides various online services and resources for residents, including small business owners. It offers information on taxes, transportation, consumer resources, licenses, permits, regulations, and employment opportunities.",
+    "key_requirements": [
+      "Compliance with state taxes",
+      "Obtaining necessary licenses, permits, and following regulations",
+      "Understanding consumer resources and transportation rules"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Create a My SC.GOV account for a personalized experience and faster completion of tasks",
+      "Explore the website to understand the state's requirements for businesses",
+      "Stay updated with the site for any changes in regulations or requirements"
+    ],
+    "state": "South Carolina"
+  },
+  {
+    "title": "Texas.gov | The Official Website of the State of Texas",
+    "url": "https://texas.gov",
+    "jurisdiction": "Texas",
+    "flag": "green",
+    "summary": "The official website of the State of Texas provides online services, resources, and information for residents and businesses. It offers guidance on various aspects including how to make your business boom in Texas.",
+    "key_requirements": [],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business' section for resources and information relevant to your business.",
+      "Check the website regularly for updates and new services.",
+      "Use the 'Find Services' feature to locate specific resources."
+    ],
+    "state": "Texas"
+  },
+  {
+    "title": "Home | Utah.gov",
+    "url": "https://utah.gov",
+    "jurisdiction": "Utah",
+    "flag": "green",
+    "summary": "The official website of the State of Utah provides various services and information for residents, businesses, and visitors. It includes sections for government, business, employment, education, and more.",
+    "key_requirements": [
+      "Businesses must comply with all relevant state laws and regulations",
+      "Businesses may need to apply for certain licenses or permits, depending on their industry and activities"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Explore the 'Business' section to understand any specific requirements or services relevant to your business",
+      "Check the 'Employment' section if you are hiring or managing employees",
+      "Reach out through the 'Support' section if you have specific questions or need assistance"
+    ],
+    "state": "Utah"
+  },
+  {
+    "title": "WA.gov",
+    "url": "https://wa.gov",
+    "jurisdiction": "Washington",
+    "flag": "green",
+    "summary": "The official website of the state of Washington, providing information and resources for various groups including businesses. It offers guides for tasks, updates on what's happening in the state, and tools to connect with the government.",
+    "key_requirements": [
+      "Understanding workers’ rights in Washington state",
+      "Knowing where and how to file a complaint",
+      "Accessing government assistance"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Use the website to access information and resources relevant to your business",
+      "Stay updated with the latest happenings in the state",
+      "Understand your obligations as an employer in terms of workers' rights",
+      "If necessary, learn how to file a complaint or access government assistance"
+    ],
+    "state": "Washington"
+  },
+  {
+    "title": "Wisconsin.Gov The Official Website of the State of Wisconsin",
+    "url": "https://wisconsin.gov",
+    "jurisdiction": "Wisconsin",
+    "flag": "green",
+    "summary": "The official website of the State of Wisconsin provides various online services and directories for residents, businesses, visitors, government, and workforce. It also provides updates on the state's unemployment rate, emergency declarations, and other news.",
+    "key_requirements": [
+      "Business registration in the state of Wisconsin",
+      "Obtaining necessary licenses such as fishing or driver's license"
+    ],
+    "important_deadlines": [],
+    "recommended_actions": [
+      "Visit the 'Business' directory for online services related to your business",
+      "Register your business if not already done",
+      "Check for any necessary licenses your business may require",
+      "Stay updated with the latest news and updates from the state"
+    ],
+    "state": "Wisconsin"
+  }
+]
