@@ -96,15 +96,16 @@ Jurisdictions and counts needed:
 {jurisdictions}
 Business query: {query}
 """
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=1024,
-            temperature=0.2
-        )
         try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=1024,
+                temperature=0.2
+            )
             return json.loads(response.choices[0].message.content)
-        except Exception:
+        except Exception as e:
+            print("OpenAI LLM error:", e)
             return {}
 
     # Call LLM fallback once for all missing jurisdictions
