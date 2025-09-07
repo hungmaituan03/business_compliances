@@ -81,17 +81,6 @@ def get_rules():
         print("Error in /get-rules:", e)
         return jsonify({"error": str(e)}), 500
 
-    def embed(text):
-        response = client.embeddings.create(
-            input=text,
-            model="text-embedding-ada-002"
-        )
-        return np.array(response.data[0].embedding, dtype=np.float32)
-
-    def cosine_similarity(vec1, vec2):
-        if np.linalg.norm(vec1) == 0 or np.linalg.norm(vec2) == 0:
-            return 0.0
-        return float(np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2)))
 
     # Step 1: Filter by jurisdiction
     filtered = [r for r in metadata if r.get('jurisdiction', '').lower() == target_jurisdiction.lower()]
