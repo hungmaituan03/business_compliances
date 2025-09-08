@@ -1,5 +1,5 @@
-import json
 from app import app
+import json
 
 def test_get_rules():
     payload = {

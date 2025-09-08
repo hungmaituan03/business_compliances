@@ -1,4 +1,5 @@
 import concurrent.futures
+from concurrent.futures import TimeoutError
 
 def embed(text, timeout_sec=15):
     def embedding_call():
@@ -11,6 +12,9 @@ def embed(text, timeout_sec=15):
         with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
             future = executor.submit(embedding_call)
             return future.result(timeout=timeout_sec)
+    except TimeoutError:
+        # Explicitly catch and handle timeout
+        return np.zeros(1536, dtype=np.float32)
     except Exception:
         return np.zeros(1536, dtype=np.float32)
 
