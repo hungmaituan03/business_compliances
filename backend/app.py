@@ -1,22 +1,42 @@
 import concurrent.futures
 from concurrent.futures import TimeoutError
+import multiprocessing
+import time
+from multiprocessing import Process, Queue
+
+EMBED_RATE_LIMIT = 10  # max embeddings per minute
+_last_embed_times = []
 
 def embed(text, timeout_sec=15):
-    def embedding_call():
-        response = client.embeddings.create(
-            input=text,
-            model="text-embedding-ada-002"
-        )
-        return np.array(response.data[0].embedding, dtype=np.float32)
-    try:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
-            future = executor.submit(embedding_call)
-            return future.result(timeout=timeout_sec)
-    except TimeoutError:
-        # Explicitly catch and handle timeout
+    def embedding_worker(q, text):
+        try:
+            response = client.embeddings.create(
+                input=text,
+                model="text-embedding-ada-002"
+            )
+            q.put(np.array(response.data[0].embedding, dtype=np.float32))
+        except Exception:
+            q.put(np.zeros(1536, dtype=np.float32))
+
+    # Rate limiting
+    global _last_embed_times
+    now = time.time()
+    # Remove timestamps older than 60 seconds
+    _last_embed_times = [t for t in _last_embed_times if now - t < 60]
+    if len(_last_embed_times) >= EMBED_RATE_LIMIT:
         return np.zeros(1536, dtype=np.float32)
-    except Exception:
+    _last_embed_times.append(now)
+
+    q = Queue()
+    p = Process(target=embedding_worker, args=(q, text))
+    p.start()
+    p.join(timeout=timeout_sec)
+    if p.is_alive():
+        p.terminate()
+        p.join()
         return np.zeros(1536, dtype=np.float32)
+    result = q.get() if not q.empty() else np.zeros(1536, dtype=np.float32)
+    return result
 
 def cosine_similarity(vec1, vec2):
     if np.linalg.norm(vec1) == 0 or np.linalg.norm(vec2) == 0:
