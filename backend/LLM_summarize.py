@@ -4,6 +4,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 import json
+import concurrent.futures
 
 # Set your OpenAI API key here or use environment variable
 load_dotenv()
@@ -39,7 +40,7 @@ def fetch_page_text(url):
     # Truncate to 2000 characters
     return text[:2000]
 
-def summarize_with_llm(url):
+def summarize_with_llm(url, timeout_sec=30):
     page_text = fetch_page_text(url)
     prompt = f"""
 Summarize the following links. Only include information that is directly relevant to small business owners. Ignore content that does not apply to small businesses. Return the summary as a JSON object with these fields, in this exact order:
@@ -63,31 +64,33 @@ Page URL: {url}
 Page content:
 {page_text}
 Provide the summary in valid JSON format only."""
-    try:
+    def llm_call():
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=1024,
             temperature=0.2
         )
-        summary = response.choices[0].message.content
-        return summary
-    except Exception as e:
-        print(f"OpenAI LLM error for {url}: {e}")
-        return json.dumps({"error": str(e), "url": url})
+        return response.choices[0].message.content
+    try:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+            future = executor.submit(llm_call)
+            summary = future.result(timeout=timeout_sec)
+            return summary
+    except Exception:
+        # Fast fallback: minimal error JSON
+        return json.dumps({"error": "LLM call failed or timed out", "url": url})
 
 def summarize_links_from_file(links_file, output_file="all_summaries.json"):
     summaries = []
     with open(links_file, "r", encoding="utf-8") as f:
         links = [line.strip() for line in f if line.strip()]
     for link in links:
-        print(f"Summarizing: {link}")
         summary = summarize_with_llm(link)
         try:
             summary_json = json.loads(summary)
             summaries.append(summary_json)
         except Exception as e:
-            print(f"Failed to parse summary for {link}: {e}")
             with open("error_output.txt", "a", encoding="utf-8") as ef:
                 ef.write(f"URL: {link}\n{summary}\n\n")
     with open(output_file, "w", encoding="utf-8") as f:
