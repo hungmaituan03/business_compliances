@@ -1,10 +1,16 @@
-def embed(text):
-    try:
+import concurrent.futures
+
+def embed(text, timeout_sec=15):
+    def embedding_call():
         response = client.embeddings.create(
             input=text,
             model="text-embedding-ada-002"
         )
         return np.array(response.data[0].embedding, dtype=np.float32)
+    try:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+            future = executor.submit(embedding_call)
+            return future.result(timeout=timeout_sec)
     except Exception:
         return np.zeros(1536, dtype=np.float32)
 
