@@ -2,7 +2,9 @@ import { useLocation } from "react-router-dom";
 export default function BusinessRulesResults() {
   const location = useLocation();
   // Use real API results from location.state (or fallback)
-  const results = location.state?.results || [];
+  const results = Array.isArray(location.state?.results?.results)
+    ? location.state.results.results
+    : [];
   console.log("[BusinessRulesResults] Raw API results package:", location.state);
 
   if (!results || results.length === 0) {
